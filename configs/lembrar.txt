@@ -1,0 +1,12 @@
+No .bashrc pra encurtar os paths:
+"
+PROMPT_DIRTRIM=2
+"
+Lista de instalações:
+- ranger
+- vim (neovim?)
+- inputremapper
+- diodon (gerenciador de area de transferencia)
+- git
+- vpn ufrgs
+
