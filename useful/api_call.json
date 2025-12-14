@@ -1,0 +1,327 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright"
+                },
+                "name": "Avenida Bento Gonçalves",
+                "country": "Brazil",
+                "country_code": "br",
+                "region": "South Region",
+                "state": "Rio Grande do Sul",
+                "county": "Metropolitan Region of Porto Alegre",
+                "state_district": "Região Geográfica Intermediária de Porto Alegre",
+                "city": "Porto Alegre",
+                "municipality": "Região Geográfica Imediata de Porto Alegre",
+                "postcode": "90650-002",
+                "district": "Porto Alegre",
+                "suburb": "Vila São José",
+                "street": "Avenida Bento Gonçalves",
+                "iso3166_2": "BR-RS",
+                "lon": -51.1650280076121,
+                "lat": -30.062132356432222,
+                "state_code": "RS",
+                "housenumber": "205",
+                "result_type": "building",
+                "formatted": "Avenida Bento Gonçalves 205, Vila São José, Porto Alegre - RS, 90650-002, Brazil",
+                "address_line1": "Avenida Bento Gonçalves 205",
+                "address_line2": "Vila São José, Porto Alegre - RS, 90650-002, Brazil",
+                "timezone": {
+                    "name": "America/Sao_Paulo",
+                    "offset_STD": "-03:00",
+                    "offset_STD_seconds": -10800,
+                    "offset_DST": "-03:00",
+                    "offset_DST_seconds": -10800
+                },
+                "plus_code": "48XCWRQM+4X",
+                "plus_code_short": "WRQM+4X Porto Alegre, Metropolitan Region of Porto Alegre, Brazil",
+                "rank": {
+                    "importance": 0.0533433333333333,
+                    "popularity": 6.8890285728230065,
+                    "confidence": 0,
+                    "confidence_city_level": 0,
+                    "confidence_street_level": 0,
+                    "confidence_building_level": 0,
+                    "match_type": "full_match"
+                },
+                "place_id": "511bcf43a31f9549c0595ae6f6e7e70f3ec0f00102f901222b3e1500000000c002039203184176656e6964612042656e746f20476f6ec3a7616c766573"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.1650280076121,
+                    -30.062132356432222
+                ]
+            },
+            "bbox": [
+                -51.1656018,
+                -30.0622097,
+                -51.1644542,
+                -30.0620549
+            ]
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright"
+                },
+                "name": "Avenida Bento Gonçalves",
+                "country": "Brazil",
+                "country_code": "br",
+                "region": "South Region",
+                "state": "Rio Grande do Sul",
+                "county": "Metropolitan Region of Porto Alegre",
+                "state_district": "Região Geográfica Intermediária de Porto Alegre",
+                "city": "Porto Alegre",
+                "municipality": "Região Geográfica Imediata de Porto Alegre",
+                "postcode": "90620-280",
+                "district": "Porto Alegre",
+                "suburb": "Partenon",
+                "street": "Avenida Bento Gonçalves",
+                "iso3166_2": "BR-RS",
+                "lon": -51.19338421352037,
+                "lat": -30.059225758948465,
+                "state_code": "RS",
+                "housenumber": "205",
+                "result_type": "building",
+                "formatted": "Avenida Bento Gonçalves 205, Partenon, Porto Alegre - RS, 90620-280, Brazil",
+                "address_line1": "Avenida Bento Gonçalves 205",
+                "address_line2": "Partenon, Porto Alegre - RS, 90620-280, Brazil",
+                "timezone": {
+                    "name": "America/Sao_Paulo",
+                    "offset_STD": "-03:00",
+                    "offset_STD_seconds": -10800,
+                    "offset_DST": "-03:00",
+                    "offset_DST_seconds": -10800
+                },
+                "plus_code": "48XCWRR4+8J",
+                "plus_code_short": "WRR4+8J Porto Alegre, Metropolitan Region of Porto Alegre, Brazil",
+                "rank": {
+                    "importance": 0.0533433333333333,
+                    "popularity": 6.940358497040592,
+                    "confidence": 0,
+                    "confidence_city_level": 0,
+                    "confidence_street_level": 0,
+                    "confidence_building_level": 0,
+                    "match_type": "full_match"
+                },
+                "place_id": "51fb505cd0c09849c059b2c3596b290f3ec0f00102f901302b3e1500000000c002039203184176656e6964612042656e746f20476f6ec3a7616c766573"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.19338421352037,
+                    -30.059225758948465
+                ]
+            },
+            "bbox": [
+                -51.1947061,
+                -30.0600197,
+                -51.1920699,
+                -30.0584445
+            ]
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright"
+                },
+                "name": "Avenida Bento Gonçalves",
+                "country": "Brazil",
+                "country_code": "br",
+                "region": "South Region",
+                "state": "Rio Grande do Sul",
+                "county": "Metropolitan Region of Porto Alegre",
+                "state_district": "Região Geográfica Intermediária de Porto Alegre",
+                "city": "Porto Alegre",
+                "municipality": "Região Geográfica Imediata de Porto Alegre",
+                "postcode": "91520-540",
+                "district": "Porto Alegre",
+                "suburb": "Vila São José",
+                "street": "Avenida Bento Gonçalves",
+                "iso3166_2": "BR-RS",
+                "lon": -51.163149,
+                "lat": -30.0622469,
+                "state_code": "RS",
+                "housenumber": "205",
+                "result_type": "building",
+                "formatted": "Avenida Bento Gonçalves 205, Vila São José, Porto Alegre - RS, 91520-540, Brazil",
+                "address_line1": "Avenida Bento Gonçalves 205",
+                "address_line2": "Vila São José, Porto Alegre - RS, 91520-540, Brazil",
+                "timezone": {
+                    "name": "America/Sao_Paulo",
+                    "offset_STD": "-03:00",
+                    "offset_STD_seconds": -10800,
+                    "offset_DST": "-03:00",
+                    "offset_DST_seconds": -10800
+                },
+                "plus_code": "48XCWRQP+4P",
+                "plus_code_short": "WRQP+4P Porto Alegre, Metropolitan Region of Porto Alegre, Brazil",
+                "rank": {
+                    "importance": 0.0533433333333333,
+                    "popularity": 6.764602904196742,
+                    "confidence": 0,
+                    "confidence_city_level": 0,
+                    "confidence_street_level": 0,
+                    "confidence_building_level": 0,
+                    "match_type": "full_match"
+                },
+                "place_id": "5103b00111e29449c05903c7af69ef0f3ec0f00102f901849d4d3700000000c002039203184176656e6964612042656e746f20476f6ec3a7616c766573"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.163149,
+                    -30.0622469
+                ]
+            },
+            "bbox": [
+                -51.1632335,
+                -30.0622493,
+                -51.1630645,
+                -30.0622445
+            ]
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright"
+                },
+                "name": "Avenida Bento Gonçalves",
+                "country": "Brazil",
+                "country_code": "br",
+                "region": "South Region",
+                "state": "Rio Grande do Sul",
+                "county": "Metropolitan Region of Porto Alegre",
+                "state_district": "Região Geográfica Intermediária de Porto Alegre",
+                "city": "Porto Alegre",
+                "municipality": "Região Geográfica Imediata de Porto Alegre",
+                "postcode": "90620-002",
+                "district": "Porto Alegre",
+                "suburb": "Partenon",
+                "street": "Avenida Bento Gonçalves",
+                "iso3166_2": "BR-RS",
+                "lon": -51.19681293574791,
+                "lat": -30.05690787896608,
+                "state_code": "RS",
+                "housenumber": "205",
+                "result_type": "building",
+                "formatted": "Avenida Bento Gonçalves 205, Partenon, Porto Alegre - RS, 90620-002, Brazil",
+                "address_line1": "Avenida Bento Gonçalves 205",
+                "address_line2": "Partenon, Porto Alegre - RS, 90620-002, Brazil",
+                "timezone": {
+                    "name": "America/Sao_Paulo",
+                    "offset_STD": "-03:00",
+                    "offset_STD_seconds": -10800,
+                    "offset_DST": "-03:00",
+                    "offset_DST_seconds": -10800
+                },
+                "plus_code": "48XCWRV3+67",
+                "plus_code_short": "WRV3+67 Porto Alegre, Metropolitan Region of Porto Alegre, Brazil",
+                "rank": {
+                    "importance": 0.0533433333333333,
+                    "popularity": 6.8101166664096615,
+                    "confidence": 0,
+                    "confidence_city_level": 0,
+                    "confidence_street_level": 0,
+                    "confidence_building_level": 0,
+                    "match_type": "full_match"
+                },
+                "place_id": "51c73b912a319949c059460bc783910e3ec0f00102f90173ee4b0d00000000c002039203184176656e6964612042656e746f20476f6ec3a7616c766573"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.19681293574791,
+                    -30.05690787896608
+                ]
+            },
+            "bbox": [
+                -51.1978876,
+                -30.0576363,
+                -51.1957383,
+                -30.0561795
+            ]
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.211143,
+                    -30.05128
+                ]
+            },
+            "properties": {
+                "country_code": "br",
+                "housenumber": "205",
+                "street": "Avenida Bento Goncalves",
+                "country": "Brazil",
+                "county": "Rio Grande Do Sul",
+                "datasource": {
+                    "sourcename": "openaddresses",
+                    "attribution": "© OpenAddresses contributors",
+                    "license": "BSD-3-Clause License"
+                },
+                "postcode": "90650-002",
+                "state": "South",
+                "city": "Porto Alegre",
+                "suburb": "Azenha",
+                "county_code": "RS",
+                "lon": -51.211143,
+                "lat": -30.05128,
+                "result_type": "building",
+                "formatted": "Avenida Bento Goncalves 205, Azenha, Porto Alegre - South, 90650-002, Brazil",
+                "address_line1": "Avenida Bento Goncalves 205",
+                "address_line2": "Azenha, Porto Alegre - South, 90650-002, Brazil",
+                "timezone": {
+                    "name": "America/Sao_Paulo",
+                    "offset_STD": "-03:00",
+                    "offset_STD_seconds": -10800,
+                    "offset_DST": "-03:00",
+                    "offset_DST_seconds": -10800
+                },
+                "plus_code": "48XCWQXQ+FG",
+                "plus_code_short": "WQXQ+FG Porto Alegre, Rio Grande Do Sul, Brazil",
+                "rank": {
+                    "popularity": 7.1547952796626975,
+                    "confidence": 0,
+                    "confidence_city_level": 0,
+                    "confidence_street_level": 0,
+                    "confidence_building_level": 0,
+                    "match_type": "full_match"
+                },
+                "place_id": "51c1e3dbbb069b49c0595af0a2af200d3ec0c00203e203466f70656e6164647265737365733a616464726573733a62722f72732f7374617465776964652d6164647265737365732d73746174653a34376535383035303739323664396266"
+            }
+        }
+    ],
+    "query": {
+        "text": "205 Av. Bento Gonçalves, Porto Alegre, 90650002, Brazil",
+        "parsed": {
+            "housenumber": "205",
+            "street": "av. bento gonçalves",
+            "city": "porto alegre",
+            "state": "90650002",
+            "country": "brazil",
+            "expected_type": "building"
+        }
+    }
+}

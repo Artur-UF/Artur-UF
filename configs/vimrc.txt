@@ -10,6 +10,18 @@ set shiftwidth=4 smarttab
 " Só usar espaços e não tabs "
 set expandtab
 
+"Command line options"
+set wildmenu
+
+"Linhas para manter na tela de diferença com o cursor"
+set scrolloff=10
+
+"Coloca o titulo do arquivo"
+set title
+
+"not wrapp in the middle of the word"
+set linebreak
+
 " Barra de Status "
 set laststatus=2
 
@@ -18,6 +30,7 @@ set whichwrap+=<,>,h,l,[,]
 
 " background color "
 hi Normal ctermfg=gray ctermbg=black
+set background=dark
 
 " realçar linha "
 set cursorline
@@ -27,4 +40,18 @@ hi Cursorline guibg=DarkSlateGray
 set hlsearch
 
 " cores? "
-colorscheme torte
+colorscheme wildcharm
+
+" abrevia tabnew
+:ab t tabnew
+
+"Syntax highlithing"
+syntax enable
+syntax on
+filetype plugin indent on
+
+"Ctrl+c e ctrl+v"
+vnoremap <C-y> "+y
+map <C-p> "+P
+
+
